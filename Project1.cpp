@@ -11,7 +11,7 @@ int main()
     int op2;
 cout<<"Welcome to my store.."<<endl;
 cout<<"Which clothes you want to buy.."<<endl;
-cout<<"1.Men"<<endl;
+cout<<"1.Men"<<endl;// select it.
 cout<<"2.Women"<<endl;
 cin>>op1;
   switch(op1)
